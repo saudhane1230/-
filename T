@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "CapCut",
+    "packageName": "com.lemon.lvoverseas",
+    "versionCode": 17200600,
+    "updateUrl": "https://t.me/officialSNMods",
+    "title": "Update  New",
+    "description": "Join the channel for CapCat updates by:badsahaMods",
+    "isForce": true,
+    "isExpired": true,
+    "expiryDate": "2020-09-01",
+    "closeButtonText": "Cancel",
+    "updateButtonText": "Get Update now"
+  }
+]
