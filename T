@@ -3,12 +3,13 @@
     "appName": "CapCut",
     "packageName": "com.lemon.lvoverseas",
     "versionCode": 19101600,
-    "updateUrl": "https://t.me/officialSNMods",
-    "title": "Update  New",
-    "description": "Join the channel for CapCat updates by:badsahaMods",
-    "isForce": false,
-    "isExpired": false,
-    "expiryDate": "2029-09-01",
+    "updateUrl": "https://t.me/+PddOqx8FczRkNmFi",
+    "title": "Update Required v29.9.0 😁 New",
+    "description": "∆We have released a new update for Capcut with new tools, so please Download it now 🌺
+∆if the new version isn't installed on your phone, uninstall the version you are using and install the latest version from our channel now.",
+    "isForce": true,
+    "isExpired": true,
+    "expiryDate": "2020-09-01",
     "closeButtonText": "Cancel",
     "updateButtonText": "Get Update now"
   }
